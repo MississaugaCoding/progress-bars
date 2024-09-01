@@ -1,0 +1,11 @@
+.progressbar {
+    height: 10px;
+    background-color: dodgerblue;
+    width:0;
+    margin: 15px;
+    transition: width 2s;
+}
+
+.full {
+    width:100%;
+}
